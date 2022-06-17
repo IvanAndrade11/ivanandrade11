@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hola! Soy Iván Andrade 👋
 
-<!--
-**IvanAndrade11/ivanandrade11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me destaco por mis habilidades como **Desarrollador Backend**, un armonioso trabajo en equipo y una increíble actitud acompañada de entrañables valores como el respeto, proactividad y convicción.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes
+                    
+
+| JavaScript      | TypeScript | Php |
+| --------- | ----- | ------ |
+| ![](/img/lenguajes/js.png)  | ![](/img/lenguajes/ts.png) | ![](/img/lenguajes/php.jpeg) |
+                
+----
+
+## Frameworks
+                    
+
+| React | Next JS | Express | Bootstrap |
+| ----- | ------ | --------- | ----- |
+| ![](/img/frameworks/react.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/express.png)  | ![](/img/frameworks/bootstrap.png) |
+                
+----
+## Complementos
+                    
+
+| HTML | CSS | Git | WordPress |
+| ----- | ------ | --------- | ----- |
+| ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/wordpress.png) |
+                
+----
+## IaC
+                    
+
+| Aws | Docker | Terraform | Jenkins |
+| ----- | ------ | --------- | ----- |
+| ![](/img/IaC/aws.png) | ![](/img/IaC/docker.png) | ![](/img/IaC/terraform.png)  | ![](/img/IaC/jenkins.png) |
+                
+----
+
+
+###End
