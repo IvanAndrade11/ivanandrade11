@@ -1,9 +1,9 @@
-# Hola! Soy Iván Andrade 👋
+# Hello! I'm Ivan Andrade 👋
 
-Me destaco por mis habilidades como **Desarrollador Backend**, un armonioso trabajo en equipo y una increíble actitud acompañada de entrañables valores como el respeto, proactividad y convicción.
+I stand out for my skills as **Backend Developer**, a harmonious teamwork and an incredible attitude accompanied by endearing values such as respect, proactivity and conviction.
 
 
-## Lenguajes
+## Programming languages
                     
 
 | JavaScript      | TypeScript | Php |
@@ -20,7 +20,7 @@ Me destaco por mis habilidades como **Desarrollador Backend**, un armonioso trab
 | ![](/img/frameworks/react.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/express.png)  | ![](/img/frameworks/bootstrap.png) |
                 
 ----
-## Complementos
+## Skills
                     
 
 | HTML | CSS | Git | WordPress |
