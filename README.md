@@ -17,15 +17,15 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 
 | React | Angular | Next JS | Express | Bootstrap |
 | ----- | ------ | --------- | ----- | ----- |
-| ![](/img/frameworks/react.png) | ![](/img/frameworks/angular.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/express.png)  | ![](/img/frameworks/bootstrap.png) |
+| ![](/img/frameworks/react.png) | ![](/img/frameworks/angular.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/node-express.png)  | ![](/img/frameworks/bootstrap.png) |
                 
 ----
 ## Skills
                     
 
-| HTML | CSS | Git - GitHub | WordPress |
-| ----- | ------ | --------- | ----- |
-| ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/wordpress.png) |
+| HTML | CSS | Git | GitHub | WordPress |
+| ----- | ------ | --------- | --------- | ----- |
+| ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/Github.png)  | ![](/img/complementos/wordpress.png) |
                 
 ----
 ## IaC
@@ -38,4 +38,4 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 ----
 
 
-### End
+### Thanks!
