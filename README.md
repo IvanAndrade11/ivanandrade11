@@ -25,10 +25,10 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 
 | HTML | CSS | Git | GitHub | WordPress |
 | ----- | ------ | --------- | --------- | ----- |
-| ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/Github.png)  | ![](/img/complementos/wordpress.png) |
+| ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/github.png)  | ![](/img/complementos/wordpress.png) |
                 
 ----
-## IaC
+## Infrastructure as Code
                     
 
 | Aws | Docker | Terraform | Jenkins | Serverless |
@@ -37,5 +37,13 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
                 
 ----
 
+## Database
+                    
+
+| DynamoDB | PostgreSQL | MySQL |
+| --------- | ----- | ------ |
+| ![](/img/bds/dynamo.png)  | ![](/img/bds/postgresql.png) | ![](/img/bds/mysql.png) |
+                
+----
 
 ### Thanks!
