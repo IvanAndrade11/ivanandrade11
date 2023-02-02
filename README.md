@@ -17,7 +17,7 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 
 | React | Angular | Next JS | Express | Bootstrap |
 | ----- | ------ | --------- | ----- | ----- |
-| ![](/img/frameworks/react.png) | ![](/img/frameworks/angular.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/node-express.png)  | ![](/img/frameworks/bootstrap.png) |
+| ![](/img/frameworks/react.png) | ![](/img/frameworks/angular.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/node-express.png)  | ![](/img/frameworks/bootstrap-logo.png) |
                 
 ----
 ## Skills
@@ -25,7 +25,7 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 
 | HTML | CSS | Git | GitHub | WordPress |
 | ----- | ------ | --------- | --------- | ----- |
-| ![](/img/complements/html.png) | ![](/img/complements/css.png) | ![](/img/complements/git.png)  | ![](/img/complements/github.png)  | ![](/img/complements/wordpress.png) |
+| ![](/img/complements/html.png) | ![](/img/complements/css.png) | ![](/img/complements/git.png)  | ![](/img/complements/github-logo.png)  | ![](/img/complements/wordpress.png) |
                 
 ----
 ## Infrastructure as Code
@@ -42,7 +42,7 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 
 | DynamoDB | MongoDB | PostgreSQL | MySQL |
 | --------- | ----- | ------ |
-| ![](/img/bds/dynamo.png)  | ![](/img/bds/mongo.png) | ![](/img/bds/postgresql.png) | ![](/img/bds/mysql.png) |
+| ![](/img/bds/dynamo.png)  | ![](/img/bds/mongodb.png) | ![](/img/bds/postgresql.png) | ![](/img/bds/mysql.png) |
                 
 ----
 
