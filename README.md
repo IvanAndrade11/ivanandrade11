@@ -15,15 +15,15 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 ## Frameworks
                     
 
-| React | Next JS | Express | Bootstrap |
-| ----- | ------ | --------- | ----- |
-| ![](/img/frameworks/react.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/express.png)  | ![](/img/frameworks/bootstrap.png) |
+| React | Angular | Next JS | Express | Bootstrap |
+| ----- | ------ | --------- | ----- | ----- |
+| ![](/img/frameworks/react.png) | ![](/img/frameworks/angular.png) | ![](/img/frameworks/next-js.png) | ![](/img/frameworks/express.png)  | ![](/img/frameworks/bootstrap.png) |
                 
 ----
 ## Skills
                     
 
-| HTML | CSS | Git | WordPress |
+| HTML | CSS | Git - GitHub | WordPress |
 | ----- | ------ | --------- | ----- |
 | ![](/img/complementos/html.png) | ![](/img/complementos/css.png) | ![](/img/complementos/git.png)  | ![](/img/complementos/wordpress.png) |
                 
@@ -31,11 +31,11 @@ I stand out for my skills as **Backend Developer**, a harmonious teamwork and an
 ## IaC
                     
 
-| Aws | Docker | Terraform | Jenkins |
-| ----- | ------ | --------- | ----- |
-| ![](/img/IaC/aws.png) | ![](/img/IaC/docker.png) | ![](/img/IaC/terraform.png)  | ![](/img/IaC/jenkins.png) |
+| Aws | Docker | Terraform | Jenkins | Serverless |
+| ----- | ------ | --------- | ----- | ----- |
+| ![](/img/IaC/aws.png) | ![](/img/IaC/docker.png) | ![](/img/IaC/terraform.png)  | ![](/img/IaC/jenkins.png) | ![](/img/IaC/serverless.png) |
                 
 ----
 
 
-###End
+### End
